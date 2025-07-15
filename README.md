@@ -4,7 +4,7 @@ domain pattern:
 <custom subdomain>.on-myevc.com/dashboard
 
 
-The main two samples would be
+Try sampling:
 
 patientSelectedRX
 patientFinalRXEditSingleView
